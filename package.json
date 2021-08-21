@@ -1,0 +1,17 @@
+{
+  "name": "icbp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cookie": "^0.4.1",
+    "@types/node": "^16.7.1",
+    "@types/uuid": "^8.3.1",
+    "@types/ws": "^7.4.7",
+    "cookie": "^0.4.1",
+    "uuid": "^8.3.2",
+    "ws": "^8.2.0"
+  }
+}
